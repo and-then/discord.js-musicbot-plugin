@@ -1,4 +1,7 @@
 # Discord MusicBot Plugin
+[![NPM](https://nodei.co/npm/discord.js-musicbot-plugin.png)](https://nodei.co/npm/discord.js-musicbot-plugin/)
+
+## About
 An easy to use music addon for discord bots.  Uses Discord.js and YouTube.
 
 ## Installing via NPM
@@ -32,7 +35,7 @@ The following commands are available:
 | skip()   | Skips current song                   |
 
 
-## Example Usage
+## Example usage
 Here is an example of a simple bot using the play() command:
 ```js
 // require Discord.js and create a new client

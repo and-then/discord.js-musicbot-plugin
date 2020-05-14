@@ -33,6 +33,7 @@ The following commands are available:
 | play()   | Adds a song or playlist to the queue |
 | replay() | Restarts current song                |
 | skip()   | Skips current song                   |
+| volume() | Set/Display current volume           |
 
 
 ## Example usage

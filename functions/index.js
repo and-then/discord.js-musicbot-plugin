@@ -6,5 +6,6 @@ module.exports = {
     replay: require('./replay'),
     search: require('./search'),
     skip: require('./skip'),
-    stream: require('./stream')
+    stream: require('./stream'),
+    volume: require('./volume')
 };

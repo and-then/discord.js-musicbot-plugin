@@ -28,8 +28,8 @@
   "homepage": "https://github.com/your-welcome/discord.js-musicbot-plugin#readme",
   "dependencies": {
     "@discordjs/opus": "^0.1.0",
-    "scrape-youtube": "^0.2.0",
+    "scrape-youtube": "^0.2.2",
     "ytdl-core-discord": "github:amishshah/ytdl-core-discord",
-    "ytpl": "^0.1.21"
+    "ytpl": "^0.1.22"
   }
 }

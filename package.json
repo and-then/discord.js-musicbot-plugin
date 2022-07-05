@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/your-welcome/discord.js-musicbot-plugin#readme",
   "dependencies": {
-    "@discordjs/opus": "^0.3.2",
+    "@discordjs/opus": "^0.8.0",
     "scrape-youtube": "^0.2.3",
     "ytdl-core-discord": "github:amishshah/ytdl-core-discord",
     "ytpl": "^0.3.0"
